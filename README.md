@@ -1,7 +1,7 @@
 
 # Conversational RAG: Context-Aware Chat with Your PDFs  
 
-🚀 **Conversational RAG** is a Streamlit-based application that allows you to chat with your PDFs using **Retrieval-Augmented Generation (RAG)**. It provides **context-aware responses**, making interactions more relevant and insightful.  
+🚀 **Conversational RAG** is a Streamlit-based application that allows you to chat with your PDFs using **Retrieval-Augmented Generation (RAG)** on your local using `deepseek-r1:1.5b`. It provides **context-aware responses**, making interactions more relevant and insightful.  
 
 ## ✨ Features  
 - 📄 **Upload PDFs** and extract meaningful content  
